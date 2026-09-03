@@ -6,7 +6,7 @@ An interactive web dashboard built with **Python and Streamlit** that explores w
 
 ## 🔗 Live Demo
 
-**[▶ Try the app here](LIVE_APP_URL)**
+**[▶ Try the app here](https://bank-marketing-dashboard.streamlit.app/)**
 
 *(Open the app, move the filters, and watch the metrics and charts update in real time.)*
 
